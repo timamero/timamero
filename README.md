@@ -2,7 +2,7 @@
 [Go to my portfolio](https://fbcamero.com/)
 - 👋 Hi, I’m @timamero
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning React with [egghead.io](https://egghead.io/courses/the-beginner-s-guide-to-react) and advancing my JavaScript/Computer Science skills with [SICP](https://source-academy.github.io/interactive-sicp/index)
+- 🌱 I’m currently training to be a full stack developer with [Full Stack Open](https://fullstackopen.com/en/) and advancing my JavaScript/Computer Science skills with [SICP](https://source-academy.github.io/interactive-sicp/index)
 - 📫 You can reach me at fatimacamerodev@gmail.com
 
 <!---
