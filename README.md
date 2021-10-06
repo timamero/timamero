@@ -1,8 +1,9 @@
 # Fatima Camero
 [Go to my portfolio](https://fbcamero.com/)
-- 👋 Hi, I’m @timamero
-- 👀 I’m interested in full stack web development and I am currently available for hire.
-- 🌱 I’m currently training to be a full stack developer with [Full Stack Open](https://fullstackopen.com/en/) and advancing my JavaScript/Computer Science skills with [SICP](https://source-academy.github.io/interactive-sicp/index)
+- 👋 Hi, I’m Fatima Camero.
+- 👀 I’m interested in full stack web development.
+- :computer: Currently a developer at [Collab Lab](https://the-collab-lab.codes/).
+- 🌱 Leveling up my skills to be a full stack developer with [Full Stack Open](https://fullstackopen.com/en/).
 - 📫 You can reach me at fatimacamerodev@gmail.com
 
 <!---
