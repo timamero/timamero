@@ -4,7 +4,6 @@
 - 👀 I’m interested in full stack web development.
 - :computer: Currently developing the following projects:
     - [Video Chat Application - Full Stack | Typescript | React | Nodejs | Express | Cypress](https://github.com/timamero/react-nodejs-video-chat)
-    - [Bulls and Cows Game - Front-end | Javascript | HTML | CSS | Jest | OOP](https://github.com/timamero/javascript-bulls-and-cows-v2)
     - [Recipe Finder Application - Front-end | Typescript | React | MUI | Firebase](https://github.com/timamero/react-recipe-finder-app)
 - 📫 You can reach me at fatimacamerodev@gmail.com
 
