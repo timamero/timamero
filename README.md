@@ -1,12 +1,15 @@
-# Fatima Anne Camero
-[Go to my portfolio](https://annecamero.com/)
+# Anne Camero
+[Portfolio](https://annecamero.com/) · [LinkedIn](https://linkedin.com/in/fannecamero)
 
-👋 Hi, I’m Fatima Anne Camero -- you can call me Anne. I'm a self taught web developer. I like to develop websites and web applications with JavaScript, React, Python, and other technologies. I enjoy working on front-end and back-end web development. I am always learning new things and working on projects to continuously improve my skills. 
+Full-stack developer with a background in mechanical engineering. 
+I build secure, thoughtfully designed web and mobile applications 
+with a focus on clean architecture and scalable code.
 
-:computer: Currently developing a calisthenics workout tracker and routine builder 💪🏾 web and mobile application.
+🔨 Currently building Torque (https://torquefit.app) — a full-stack 
+web and mobile calisthenics workout tracking application built with 
+TypeScript, Python, React, Vite, React Native, Expo, FastAPI, and Supabase.
 
-
-📫 You can reach me at annecamerodev@gmail.com
+📫 hey@annecamero.com
 
 <!---
 timamero/timamero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
